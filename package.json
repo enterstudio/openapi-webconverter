@@ -24,7 +24,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "compression": "^1.6.2",
+    "compression": "^1.8.1",
     "ejs": "^2.5.1",
     "express": "^4.15.5",
     "js-yaml": "^3.6.1",
